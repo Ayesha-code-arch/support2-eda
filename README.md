@@ -34,7 +34,7 @@ The analysis proceeds through several stages:
 
 ```
 support2-eda/
-├── AP_CI7340_Coursework2_Group6_sanitized.ipynb  # Jupyter notebook with the full analysis (names and IDs removed)
+├── AP_CI7340_Coursework2.ipynb  # J# Jupyter notebook with the full analysis (personal info removed)
 ├── requirements_support2.txt                     # Python packages required to run the notebook
 ├── README.md                                     # Project overview and analysis summary
 └── LICENSE                                       # MIT Licence
